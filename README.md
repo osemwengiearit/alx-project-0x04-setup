@@ -73,7 +73,3 @@ LinkedIn | X (Twitter)
 # 📜 License
 
 This project is licensed for educational purposes under the ALX Front End ProDev curriculum.
-
----
-
-Let me know if you'd like it more minimal, include badges, or tailor it to your GitHub repo directly.
